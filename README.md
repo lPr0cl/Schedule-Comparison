@@ -19,6 +19,9 @@ Input each class like so: "[class#],[Title],[instructor(s)],[day(s)],[time(s)]"
 NOTE: If your class does not have a [day(s)] or a [time(s)] set, most likely because of hybrid, replace them with none. (see E.X. 2 below)
 
 Here are 3 example inputs (Do not use quotation marks):
+
 E.X. 1) "86189/The ASU Experience/Holcomb/W/1:25 PM - 2:15 PM"
+
 E.X. 2) "76815/Principles of Programming/Meuth/ Miller/none/none"
+
 E.X. 3) "93189/First-Year Composition/Brooks/T Th/12:00 PM - 1:15 PM"
