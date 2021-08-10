@@ -14,7 +14,7 @@ The program asks whether you would like to 'analyze' or 'create'
 On 'create' request, put the number of classes you have into the program.
 The program will request class information equal to the number of classes you said you had.
 ###
-Input each class like so: "[class#],[Title],[instructor(s)],[day(s)],[time(s)]"
+Input each class like so: "[class#]/[title]/[instructor(s)]/[day(s)]/[time(s)]"
 ###
 NOTE: Type each inquiry *exactly* how it is written in My ASU. 
 NOTE: If you have multiple instructors, write both names-- E.X. "Meuth, Miller"
