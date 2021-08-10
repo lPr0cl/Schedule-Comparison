@@ -13,15 +13,15 @@ The program asks whether you would like to 'analyze' or 'create'
 
 On 'create' request, put the number of classes you have into the program.
 The program will request class information equal to the number of classes you said you had.
-
-NOTE: Type each inquiry *exactly* how it is written in My ASU. (If you have multiple instructors, write both names-- E.X. "Meuth, Miller")
+###
 Input each class like so: "[class#],[Title],[instructor(s)],[day(s)],[time(s)]"
-NOTE: If your class does not have a [day(s)] or a [time(s)] set, most likely because of hybrid, replace them with none. (see E.X. 2 below)
+###
+NOTE: Type each inquiry *exactly* how it is written in My ASU. 
+NOTE: If you have multiple instructors, write both names-- E.X. "Meuth, Miller"
+NOTE: If your class does not have a [day(s)] or a [time(s)] set, 
+  |>  most likely because of hybrid, replace them with none. (see E.X. 2 below)
 
 Here are 3 example inputs (Do not use quotation marks):
-
 E.X. 1) "86189/The ASU Experience/Holcomb/W/1:25 PM - 2:15 PM"
-
 E.X. 2) "76815/Principles of Programming/Meuth/ Miller/none/none"
-
 E.X. 3) "93189/First-Year Composition/Brooks/T Th/12:00 PM - 1:15 PM"
