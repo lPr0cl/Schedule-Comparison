@@ -5,3 +5,5 @@
 93747/Miller/M W/10:10 AM - 12:00 PM/justinjohnson
 82455/Tieleman/T Th/10:30 AM - 11:45 AM/justinjohnson
 71815/Nikitin/T Th/9:00 AM - 10:15 AM/justinjohnson
+
+73377/Staff/Th/9:00 AM - 9:50 AM/andyvu
