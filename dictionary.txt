@@ -12,7 +12,7 @@
 75788/Millman/none/none/andyvu
 70558/Millman/T Th/1:30 PM - 2:45 PM/andyvu
 93744/Tuzmen/W F/3:00 PM - 4:50 PM/andyvu
-71818/Odish/M W F/ /andyvu
+71818/Odish/M W F/1:25 PM - 2:15 PM/andyvu
 76651/Bocanegra/Th/4:30 PM - 5:20 PM/yvannychang
 76159/Morgan/T Th/9:00 AM - 10:15 AM/yvannychang
 73799/Smith/T/2:00 PM - 3:50 PM/yvannychang
