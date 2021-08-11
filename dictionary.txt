@@ -16,3 +16,5 @@
 76651/Bocanegra/Th/4:30 PM - 5:20 PM/yvannychang
 76159/Morgan/T Th/9:00 AM - 10:15 AM/yvannychang
 73799/Smith/T/2:00 PM - 3:50 PM/yvannychang
+
+74308/Lamb/Th/2:00 PM - 2:50 PM/yvannychang
