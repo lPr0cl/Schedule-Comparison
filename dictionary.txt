@@ -5,7 +5,6 @@
 93747/Miller/M W/10:10 AM - 12:00 PM/justinjohnson
 82455/Tieleman/T Th/10:30 AM - 11:45 AM/justinjohnson
 71815/Nikitin/T Th/9:00 AM - 10:15 AM/justinjohnson
-
 73377/Staff/Th/9:00 AM - 9:50 AM/andyvu
 91232/Kobayashi/T Th/10:30 AM - 11:45 AM/andyvu
 92301/Kobayashi/T/12:00 PM - 12:50 PM/andyvu
@@ -16,7 +15,6 @@
 76651/Bocanegra/Th/4:30 PM - 5:20 PM/yvannychang
 76159/Morgan/T Th/9:00 AM - 10:15 AM/yvannychang
 73799/Smith/T/2:00 PM - 3:50 PM/yvannychang
-
 74308/Lamb/Th/2:00 PM - 2:50 PM/yvannychang
 93193/Bender/M W/1:30 PM - 2:45 PM/yvannychang
 93825/Taylor/W F/10:10 AM - 12:00 PM/yvannychang
