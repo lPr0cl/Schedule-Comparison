@@ -24,3 +24,4 @@
 91232/Kobayashi/T Th/10:30 AM - 11:45 AM/andrewboban
 92302/Kobayashi/Th/12:00 PM - 12:50 PM/andrewboban
 91344/Granillo/M W F/12:20 PM - 1:10 PM/andrewboban
+93760/Hanni/T Th/3:00 PM - 4:50 PM/andrewboban
